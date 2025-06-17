@@ -42,5 +42,5 @@ I questioned for awhile what I wanted to do for a career. After giving it some t
 </div>
 
 ## Projects
-- Active Directory Project
+- <a href="https://github.com/TJ231IT/Active-Directory-Project/tree/main">Active Directory Project</a>
 
