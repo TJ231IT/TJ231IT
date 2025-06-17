@@ -1,5 +1,6 @@
 # Hello, I'm Tyler Jalas
-<a href="https://profile.indeed.com/p/tylerj-jf5q3wt">
+<a href="https://profile.indeed.com/p/tylerj-jf5q3wt"><img src="https://img.shields.io/badge/-Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white" />
+
 
 [Brief Introduction - Remove this afterwards]
 
