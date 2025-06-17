@@ -9,7 +9,7 @@ I am a 21 year-old IT student looking to expand my knowledge in the IT/Cybersecu
 ## Objective
 
 
-I questioned for awhile what I wanted to do for a career. After giving it some thought and doing some research, I decided to look into cybersecurity. The Goodwill I currently work at offered the Google Cybersecurity Professional Certificate through Coursera for free; so I decided to try it and have not stopped learning since. AFter completing the Google Cybersecurity Cert. I moved onto the Google IT Professional Certificate, and am working on completeing that right now. I am also working towards getting my CompTIA A+ Certificate as well. This fall, I will be returning to Southeastern Community College to complete the "Network Admin & Cybersecurity PRogram-AAS". My main goal right now is to keep learning as much as I can, and hopefully get a Help Desk job to start getting some work experience.  
+I questioned for awhile what I wanted to do for a career. After giving it some thought and doing some research, I decided to look into cybersecurity. The Goodwill I currently work at offered the Google Cybersecurity Professional Certificate through Coursera for free; so I decided to try it and have not stopped learning since. After completing the Google Cybersecurity Cert. I moved onto the Google IT Professional Certificate, and am working on completeing that right now. I am also working towards getting my CompTIA A+ Certificate as well. This fall, I will be returning to Southeastern Community College to complete the "Network Admin & Cybersecurity Program-AAS". My main goal right now is to keep learning as much as I can, and hopefully get a Help Desk job to start getting some work experience.  
 
 ## Skills
 
