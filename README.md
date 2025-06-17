@@ -4,7 +4,7 @@
 
 
 
-I am a 21 year-old IT student looking to expand my knowledge in the IT/Cyversecurity field. I have always been interested in technology at a very young age, and recently decided to pursue IT as a career. I am very eager and excited to get started in my IT journey and learn as much as I can!
+I am a 21 year-old IT student looking to expand my knowledge in the IT/Cybersecurity field. I have always been interested in technology at a very young age, and recently decided to pursue IT as a career. I am very eager and excited to get started in my IT journey and learn as much as I can!
 
 ## Objective
 
