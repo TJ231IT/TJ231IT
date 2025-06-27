@@ -17,8 +17,8 @@ I questioned for awhile what I wanted to do for a career. After giving it some t
 | Skills                                         
 |---------------------------------------------------------------------------|
 | -Basic Windows Active Directory Skills(Create new user, change password, unlock user)|
-| -Understanding of Networking basics (IP, DNS, DHCP, ping)|
-| -Personal experinece with Microsoft Office, Excel, & Word|
+| -Understanding of Networking basics (IP, DNS, DHCP)|
+| -Personal experience with Microsoft Office, Excel, & Word|
 | -Some experience with RDP (remoted desktop protocol)|
 
 
